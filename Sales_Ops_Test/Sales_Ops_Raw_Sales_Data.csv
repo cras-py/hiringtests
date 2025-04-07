@@ -2,7 +2,7 @@ Transaction_ID,Date,Customer_Name,Region,Sales_Rep,Product,Quantity,Unit_Price,T
 ST-10045,1/15/2023,Acme Corp,North,John Smith,Software License,10,1500,15000,Won,1/2/2023,1/15/2023
 ST-10046,1/20/2023,GlobalTech,South,Sarah Jones,Hardware,5,2000,10000,Won,12/15/2022,1/20/2023
 ST-10047,1/22/2023,Mega Systems,West,David Lee,Consulting,1,8000,8000,Won,1/5/2023,1/22/2023
-ST-10048,1/25/2023,TechGiant,East,Maria Garcia,Software License,15,1500,22500,Won,12/20/2022,1/25/2023
+ST-10048,2023-01-25,TechGiant,East,Maria Garcia,Software License,15,1500,22500,Won,12/20/2022,1/25/2023
 ST-10049,1/30/2023,InnovateInc,North,John Smith,Maintenance,20,500,10000,Won,1/10/2023,1/30/2023
 ST-10050,2/5/2023,SmartSolutions,South,Sarah Jones,Hardware,3,2000,6000,Lost,1/15/2023,2/5/2023
 ST-10051,2/10/2023,FutureTech,West,David Lee,Software License,7,1500,10500,Won,1/20/2023,2/10/2023
@@ -16,7 +16,7 @@ ST-10058,3/15/2023,InnovateInc,South,Sarah Jones,Software License,20,1500,30000,
 ST-10059,3/20/2023,FutureTech,East,Maria Garcia,Maintenance,25,500,12500,Won,2/25/2023,3/20/2023
 ST-10060,3/25/2023,Global Widgets,West,David Lee,Hardware,7,2000,14000,Won,3/1/2023,3/25/2023
 ST-10061,4/1/2023,Tech Direct,North,Chris Wilson,Software License,15,1500,22500,Won,3/10/2023,4/1/2023
-ST-10062,4/5/2023,Acme Corp,East,Maria Garcia,Consulting,2,8000,16000,Lost,3/15/2023,4/5/2023
+ST-10062,4/5/2023,Acme Corp,Eastt,Maria Garcia,Consulting,2,8000,16000,Lost,3/15/2023,4/5/2023
 ST-10063,4/10/2023,DataDynamics,South,Sarah Jones,Hardware,6,2000,12000,Won,3/20/2023,4/10/2023
 ST-10064,4/15/2023,TechGiant,West,David Lee,Maintenance,40,500,20000,Won,3/25/2023,4/15/2023
 ST-10065,4/20/2023,InnovateInc,North,John Smith,Software License,10,1500,15000,Won,4/1/2023,4/20/2023
