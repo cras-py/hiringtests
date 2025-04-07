@@ -1,0 +1,21 @@
+Deal_ID,Customer_Name,Region,Sales_Rep,Product,Deal_Value,Stage,Probability,Created_Date,Expected_Close_Date
+PL-2023,Acme Corp,North,John Smith,Software License,25000,Proposal,60%,7/1/2023,8/15/2023
+PL-2024,GlobalTech,South,Sarah Jones,Hardware,18000,Negotiation,80%,6/15/2023,8/1/2023
+PL-2025,Mega Systems,West,David Lee,Consulting,32000,Discovery,30%,7/10/2023,9/15/2023
+PL-2026,TechGiant,East,Maria Garcia,Software License,45000,Negotiation,75%,6/1/2023,8/5/2023
+PL-2027,InnovateInc,North,Chris Wilson,Maintenance,15000,Proposal,65%,6/25/2023,8/10/2023
+PL-2028,SmartSolutions,South,Sarah Jones,Hardware,20000,Discovery,25%,7/15/2023,9/20/2023
+PL-2029,FutureTech,West,David Lee,Software License,30000,Proposal,70%,6/20/2023,8/5/2023
+PL-2030,DataDynamics,East,Maria Garcia,Consulting,50000,Qualification,20%,7/20/2023,10/1/2023
+PL-2031,Global Widgets,North,John Smith,Hardware,22000,Qualification,15%,7/25/2023,10/5/2023
+PL-2032,Tech Direct,South,Chris Wilson,Maintenance,12000,Negotiation,85%,6/10/2023,7/30/2023
+PL-2033,SecureTech,West,David Lee,Software License,35000,Proposal,60%,6/30/2023,8/15/2023
+PL-2034,DataFlow Inc,East,Maria Garcia,Hardware,28000,Discovery,35%,7/5/2023,9/10/2023
+PL-2035,Enterprise Solutions,North,John Smith,Consulting,60000,Qualification,25%,7/15/2023,10/15/2023
+PL-2036,Cloud Systems,South,Sarah Jones,Software License,40000,Negotiation,80%,6/5/2023,8/1/2023
+PL-2037,Network Pro,West,Chris Wilson,Maintenance,18000,Proposal,65%,6/25/2023,8/10/2023
+PL-2038,DevOps Inc,East,Maria Garcia,Hardware,25000,Qualification,20%,7/20/2023,10/5/2023
+PL-2039,Digital Transforms,North,John Smith,Software License,32000,Discovery,30%,7/10/2023,9/15/2023
+PL-2040,Quantum Computing,South,Sarah Jones,Consulting,75000,Negotiation,75%,6/1/2023,8/10/2023
+PL-2041,AI Solutions,West,David Lee,Maintenance,15000,Proposal,60%,6/20/2023,8/5/2023
+PL-2042,Blockchain Tech,East,Chris Wilson,Software License,30000,Qualification,15%,7/25/2023,10/10/2023 

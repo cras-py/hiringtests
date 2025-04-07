@@ -1,0 +1,31 @@
+Date,Campaign_ID,Campaign_Name,Channel,Visits,MQLs,SQLs,Opportunities,Customers
+4/1/2023,MKT-001,Spring Promotion,Email,3200,175,70,35,20
+4/1/2023,MKT-002,New Product Launch,Social Media,9500,320,128,64,30
+4/15/2023,MKT-003,Industry Webinar,Webinar,620,150,90,45,18
+4/1/2023,MKT-004,Search Campaign,PPC,15000,240,144,72,40
+4/1/2023,MKT-005,Content Syndication,Display,7800,210,84,42,15
+4/10/2023,MKT-006,Partner Promotion,Email,2500,160,96,48,25
+4/1/2023,MKT-007,Free Trial Offer,Social Media,8000,256,154,77,32
+4/20/2023,MKT-008,Industry Event,Event,500,100,60,30,18
+4/1/2023,MKT-009,Retargeting Campaign,Display,7500,180,108,54,30
+4/5/2023,MKT-010,Feature Highlight,Email,2800,135,82,41,22
+4/1/2023,MKT-011,Competitor Comparison,PPC,12000,200,120,60,35
+4/25/2023,MKT-012,Solution Webinar,Webinar,580,140,84,42,16
+4/1/2023,MKT-013,Customer Testimonials,Social Media,6000,144,86,43,24
+4/1/2023,MKT-014,Industry Whitepaper,Content,2000,120,72,36,15
+5/1/2023,MKT-015,Spring Promotion,PPC,9000,225,135,68,32
+5/1/2023,MKT-016,New Product Launch,Email,2500,140,84,42,25
+5/15/2023,MKT-017,Industry Webinar,Webinar,550,130,78,39,20
+5/1/2023,MKT-018,Search Campaign,PPC,13000,312,187,94,40
+5/1/2023,MKT-019,Content Syndication,Display,8500,228,137,68,28
+5/10/2023,MKT-020,Partner Promotion,Email,2800,180,108,54,28
+5/1/2023,MKT-021,Free Trial Offer,Social Media,8500,272,163,82,36
+5/18/2023,MKT-022,Industry Event,Event,600,120,72,36,22
+5/1/2023,MKT-023,Retargeting Campaign,Display,8000,195,117,59,32
+5/12/2023,MKT-024,Feature Highlight,Email,3000,144,86,43,26
+5/1/2023,MKT-025,Competitor Comparison,PPC,13500,220,132,66,38
+5/22/2023,MKT-026,Solution Webinar,Webinar,620,152,91,46,19
+5/1/2023,MKT-027,Customer Testimonials,Social Media,6500,156,94,47,28
+5/1/2023,MKT-028,Industry Whitepaper,Content,2200,140,84,42,18
+6/1/2023,MKT-029,Summer Promotion,Email,3500,193,116,58,32
+6/1/2023,MKT-030,Product Update,Social Media,9000,296,178,89,42 

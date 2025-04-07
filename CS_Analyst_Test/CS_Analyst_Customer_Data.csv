@@ -1,0 +1,31 @@
+Customer_ID,Customer_Name,Segment,Industry,Contract_Start_Date,Contract_End_Date,Renewal_Month,Annual_Contract_Value,Contract_Length_Months,CSM,NPS_Score,Support_Tickets_Last_90_Days,Last_QBR_Date,Implementation_Days,Onboarding_Status
+C-1001,Acme Enterprises,Enterprise,Manufacturing,1/15/2022,1/14/2023,January,120000,12,Sarah Johnson,9,5,12/1/2022,45,Complete
+C-1002,Tech Innovators,Mid-Market,Technology,2/1/2022,1/31/2024,January,75000,24,Michael Chen,8,2,11/15/2022,30,Complete
+C-1003,Global Retail Inc,Enterprise,Retail,3/10/2022,3/9/2023,March,150000,12,Sarah Johnson,7,8,12/5/2022,60,Complete
+C-1004,Finance Solutions,Mid-Market,Financial Services,3/15/2022,3/14/2023,March,80000,12,James Wilson,9,3,12/10/2022,35,Complete
+C-1005,HealthPlus,Enterprise,Healthcare,4/1/2022,3/31/2024,March,200000,24,Michael Chen,10,1,11/20/2022,50,Complete
+C-1006,SmallBiz LLC,SMB,Professional Services,4/15/2022,4/14/2023,April,30000,12,Amanda Lee,8,4,1/10/2023,20,Complete
+C-1007,Media Group,Mid-Market,Media,5/1/2022,4/30/2023,April,65000,12,James Wilson,6,7,1/5/2023,40,Complete
+C-1008,EduTech Systems,SMB,Education,5/15/2022,5/14/2023,May,25000,12,Amanda Lee,9,2,2/1/2023,15,Complete
+C-1009,Industrial Solutions,Enterprise,Manufacturing,6/1/2022,5/31/2024,May,180000,24,Sarah Johnson,8,4,2/15/2023,55,Complete
+C-1010,Retail Dynamics,Mid-Market,Retail,6/15/2022,6/14/2023,June,70000,12,Michael Chen,7,5,3/1/2023,30,Complete
+C-1011,TechStart,SMB,Technology,7/1/2022,6/30/2023,June,28000,12,Amanda Lee,8,3,3/10/2023,18,Complete
+C-1012,Healthcare Analytics,Enterprise,Healthcare,7/15/2022,7/14/2024,July,220000,24,Sarah Johnson,9,2,4/5/2023,60,Complete
+C-1013,Finance Direct,Mid-Market,Financial Services,8/1/2022,7/31/2023,July,85000,12,James Wilson,8,4,4/15/2023,35,Complete
+C-1014,Legal Partners,SMB,Professional Services,8/15/2022,8/14/2023,August,32000,12,Amanda Lee,7,6,5/1/2023,20,Complete
+C-1015,Manufacturing Pro,Enterprise,Manufacturing,9/1/2022,8/31/2024,August,175000,24,Michael Chen,9,3,5/15/2023,50,Complete
+C-1016,Tech Enterprises,Mid-Market,Technology,9/15/2022,9/14/2023,September,68000,12,James Wilson,8,4,6/1/2023,30,Complete
+C-1017,Retail Solutions,SMB,Retail,10/1/2022,9/30/2023,September,26000,12,Amanda Lee,6,7,6/15/2023,15,Complete
+C-1018,Financial Group,Enterprise,Financial Services,10/1/2022,10/14/2024,October,195000,24,Sarah Johnson,9,2,7/1/2023,55,Complete
+C-1019,Health Systems Inc,Mid-Market,Healthcare,11/1/2022,10/31/2023,October,72000,12,Michael Chen,8,3,7/15/2023,35,Complete
+C-1020,Professional Services Co,SMB,Professional Services,11/15/2022,11/14/2023,November,29000,12,Amanda Lee,7,5,8/1/2023,18,Complete
+C-1021,Manufacturing Solutions,Enterprise,Manufacturing,12/1/2022,11/30/2024,November,185000,24,Sarah Johnson,8,4,8/15/2023,60,Complete
+C-1022,Tech Consultants,Mid-Market,Technology,12/15/2022,12/14/2023,December,76000,12,James Wilson,9,2,9/1/2023,30,Complete
+C-1023,Retail Innovations,SMB,Retail,1/1/2023,12/31/2023,December,27000,12,Amanda Lee,8,3,9/15/2023,15,Complete
+C-1024,Finance Innovations,Enterprise,Financial Services,1/15/2023,1/14/2025,January,210000,24,Michael Chen,10,1,10/1/2023,50,Complete
+C-1025,Healthcare Direct,Mid-Market,Healthcare,2/1/2023,1/31/2024,January,78000,12,Sarah Johnson,9,2,10/15/2023,35,Complete
+C-1026,Creative Services,SMB,Professional Services,2/15/2023,2/14/2024,February,31000,12,Amanda Lee,8,4,11/1/2023,20,Complete
+C-1027,Industrial Manufacturing,Enterprise,Manufacturing,3/1/2023,2/28/2025,February,190000,24,James Wilson,9,3,11/15/2023,55,In Progress
+C-1028,Software Solutions,Mid-Market,Technology,3/15/2023,3/14/2024,March,74000,12,Michael Chen,8,5,,,In Progress
+C-1029,Retail Direct,SMB,Retail,4/1/2023,3/31/2024,March,28000,12,Amanda Lee,,,,,In Progress
+C-1030,Financial Analytics,Enterprise,Financial Services,4/15/2023,4/14/2025,April,205000,24,Sarah Johnson,,,,,In Progress 

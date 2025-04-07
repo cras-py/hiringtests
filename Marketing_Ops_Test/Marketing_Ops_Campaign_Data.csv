@@ -1,0 +1,31 @@
+Campaign_ID,Campaign_Name,Channel,Campaign_Type,Start_Date,End_Date,Target_Audience,Budget,Spend,Impressions,Clicks,Leads,Opportunities,Customers,Revenue
+MKT-001,Spring Promotion,Email,Nurture,4/1/2023,4/30/2023,Existing Customers,5000,4850,50000,2500,175,35,20,30000
+MKT-002,New Product Launch,Social Media,Awareness,4/1/2023,4/30/2023,New Prospects,10000,10000,200000,8000,320,64,30,45000
+MKT-003,Industry Webinar,Webinar,Education,4/15/2023,4/15/2023,Mid-Market,3000,3000,N/A,N/A,150,45,18,27000
+MKT-004,Search Campaign,PPC,Acquisition,4/1/2023,4/30/2023,Enterprise,15000,14500,300000,12000,240,72,40,80000
+MKT-005,Content Syndication,Display,Awareness,4/1/2023,4/30/2023,SMB,7500,7500,175000,5250,210,42,15,22500
+MKT-006,Partner Promotion,Email,Co-Marketing,4/10/2023,4/24/2023,Partner Clients,4000,3800,40000,2000,160,48,25,37500
+MKT-007,Free Trial Offer,Social Media,Acquisition,4/1/2023,4/30/2023,New Prospects,8000,8000,160000,6400,256,77,32,48000
+MKT-008,Industry Event,Event,Awareness,4/20/2023,4/22/2023,Enterprise,12000,12000,500,500,100,30,18,54000
+MKT-009,Retargeting Campaign,Display,Nurture,4/1/2023,4/30/2023,Website Visitors,6000,5800,120000,6000,180,54,30,45000
+MKT-010,Feature Highlight,Email,Education,4/5/2023,4/19/2023,Existing Customers,3500,3400,45000,2250,135,41,22,33000
+MKT-011,Competitor Comparison,PPC,Acquisition,4/1/2023,4/30/2023,Competitor Mentions,9000,9000,200000,10000,200,60,35,70000
+MKT-012,Solution Webinar,Webinar,Education,4/25/2023,4/25/2023,Mid-Market,3500,3500,N/A,N/A,140,42,16,24000
+MKT-013,Customer Testimonials,Social Media,Nurture,4/1/2023,4/30/2023,Pipeline Prospects,5500,5400,120000,4800,144,43,24,36000
+MKT-014,Industry Whitepaper,Content,Awareness,4/1/2023,4/30/2023,New Prospects,4500,4500,30000,1500,120,36,15,22500
+MKT-015,Spring Promotion,PPC,Acquisition,5/1/2023,5/31/2023,New Prospects,6000,6000,150000,7500,225,68,32,48000
+MKT-016,New Product Launch,Email,Nurture,5/1/2023,5/31/2023,Existing Customers,4000,3900,40000,2000,140,42,25,37500
+MKT-017,Industry Webinar,Webinar,Education,5/15/2023,5/15/2023,Enterprise,3500,3500,N/A,N/A,130,39,20,40000
+MKT-018,Search Campaign,PPC,Acquisition,5/1/2023,5/31/2023,SMB,12000,12000,260000,10400,312,94,40,60000
+MKT-019,Content Syndication,Display,Awareness,5/1/2023,5/31/2023,Mid-Market,8000,8000,190000,5700,228,68,28,56000
+MKT-020,Partner Promotion,Email,Co-Marketing,5/10/2023,5/24/2023,Partner Clients,4500,4400,45000,2250,180,54,28,42000
+MKT-021,Free Trial Offer,Social Media,Acquisition,5/1/2023,5/31/2023,Website Visitors,7500,7500,170000,6800,272,82,36,54000
+MKT-022,Industry Event,Event,Awareness,5/18/2023,5/20/2023,Enterprise,15000,15000,600,600,120,36,22,66000
+MKT-023,Retargeting Campaign,Display,Nurture,5/1/2023,5/31/2023,Website Visitors,6500,6400,130000,6500,195,59,32,48000
+MKT-024,Feature Highlight,Email,Education,5/12/2023,5/26/2023,Existing Customers,4000,3900,48000,2400,144,43,26,39000
+MKT-025,Competitor Comparison,PPC,Acquisition,5/1/2023,5/31/2023,Competitor Mentions,10000,10000,220000,11000,220,66,38,76000
+MKT-026,Solution Webinar,Webinar,Education,5/22/2023,5/22/2023,Mid-Market,3800,3800,N/A,N/A,152,46,19,28500
+MKT-027,Customer Testimonials,Social Media,Nurture,5/1/2023,5/31/2023,Pipeline Prospects,6000,5900,130000,5200,156,47,28,42000
+MKT-028,Industry Whitepaper,Content,Awareness,5/1/2023,5/31/2023,New Prospects,5000,5000,35000,1750,140,42,18,27000
+MKT-029,Summer Promotion,Email,Nurture,6/1/2023,6/30/2023,Existing Customers,5500,5300,55000,2750,193,58,32,48000
+MKT-030,Product Update,Social Media,Awareness,6/1/2023,6/30/2023,Existing Customers,9000,9000,185000,7400,296,89,42,63000 
