@@ -1,9 +1,10 @@
 # Sales Operations Analyst Technical Assessment
 
-**Time Estimate:** 60-90 minutes
+**Time Estimate:** 90-120 minutes
 
 ## Overview
-This technical assessment is designed to evaluate your ability to analyze sales data, create meaningful reports, and derive actionable insights.
+This technical assessment is designed to evaluate your ability to work with PowerPivot, PowerQuery and DAX in Excel.
+We understand you may not know them, but the ability to traoubleshoot/figure things out is important.
 
 ## Instructions
 1. Open the Excel file and review all tabs
