@@ -21,8 +21,8 @@ https://github.com/cras-py/hiringtests/tree/main/Sales_Ops_Test
 ### Task 1: Data Cleaning and Analysis
 - Review the "Raw_Sales_Data" tab which contains sales transaction information
 - Identify and correct any data inconsistencies (duplicates, missing values, formatting issues)
-- Create a pivot table analyzing sales by region, product, and sales representative
-- Calculate the average deal size, win rate, and sales cycle length
+- Create pivot table(s) analyzing sales by region, product, and sales representative
+- Include measures for average deal size, win rate, and average sales cycle length
 
 ### Task 2: Pipeline Analysis
 - Using the data in "Pipeline_Data" tab, forecast expected revenue for the next quarter
